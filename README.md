@@ -51,7 +51,8 @@
 
 ### 📁 More
 
-- Wordpress, React Native/Expo  
+- Wordpress, React Native/Expo
+- C#, C++, Java Swing
 - Figma, Photoshop, Canva
 - Vercel 
 - Git, Gemini API, AI Tools 
@@ -65,5 +66,3 @@
 <img src="https://your-image-link.com/footer.png" alt="Footer Banner" />
 
 ---
-
-## 🔥 Pinned Projects

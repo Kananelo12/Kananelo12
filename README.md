@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/joelics-arts/image/upload/v1751360802/ptnia9wf5qaiebvxb6jv.png" alt="Banner" />
+<img src="https://res.cloudinary.com/joelics-arts/image/upload/v1752061351/github/banner-1_soa3hy.png" alt="Banner" />
 
 <h2 align="center">Web Developer</h2>
 

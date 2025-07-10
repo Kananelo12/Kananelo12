@@ -50,9 +50,3 @@
 </td>
 </tr>
 </table>
-
----
-
-<img src="https://your-image-link.com/footer.png" alt="Footer Banner" />
-
----

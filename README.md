@@ -20,34 +20,18 @@
 <table>
 <tr>
 <td>
-
+<img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:50px;" /><br />   
 ### 🎨 Frontend
 
 - Next.js, React, TypeScript, JavaScript  
 - Tailwind, Sass, shadcn/ui, Bootstrap  
-- SEO, Accessibility  
-
-</td>
-<td>
-
-<img src="https://res.cloudinary.com/joelics-arts/image/upload/v1752149772/github/joey_ph2rli.png" alt="Joey Cool Dev" width="200"/>
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>
+- SEO, Accessibility
 
 ### 🛠 Back
 
 - Next.js, Node.js, Java, Laravel   
 - Firebase, Appwrite, Supabase
-- SQL Server, MySQL  
-
-</td>
-<td>
+- SQL Server, MySQL
 
 ### 📁 More
 
@@ -56,6 +40,11 @@
 - Figma, Photoshop, Canva
 - Vercel 
 - Git, Gemini API, AI Tools 
+<img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:40px" />
+</td>
+<td>
+
+<img src="https://res.cloudinary.com/joelics-arts/image/upload/v1752149772/github/joey_ph2rli.png" alt="Joey Cool Dev" width="800"/>
 
 </td>
 </tr>

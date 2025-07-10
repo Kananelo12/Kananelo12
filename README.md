@@ -30,7 +30,7 @@
 </td>
 <td>
 
-<img src="https://your-image-link.com/character.png" alt="Cool Dev" width="200"/>
+<img src="https://res.cloudinary.com/joelics-arts/image/upload/v1752149772/github/joey_ph2rli.png" alt="Joey Cool Dev" width="200"/>
 
 </td>
 </tr>

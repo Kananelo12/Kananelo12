@@ -20,7 +20,8 @@
 <table>
 <tr>
 <td>
-<img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:50px;" /><br />   
+<img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:50px;" /><br>
+  
 ### 🎨 Frontend
 
 - Next.js, React, TypeScript, JavaScript  

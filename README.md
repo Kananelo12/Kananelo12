@@ -11,7 +11,7 @@
 
 <p align="center">
   🔗 <a href="https://joel-portfolio.web.app/">My Portfolio</a><br>
-  📅 <a href="https://calendly.com/kananeloj12/30min">Schedule a meeting</a><br>
+  📅 <a href="https://calendly.com/kananelojoel/30min">Schedule a meeting</a><br>
   ✉️ <a href="mailto:kananeloj12@gmail.com">Send me an Email</a>
 </p>
 
